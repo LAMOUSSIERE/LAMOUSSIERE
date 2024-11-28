@@ -1,0 +1,2 @@
+- 👋 Hi, I’m LAMOUSSIERE
+- 👀 I’m interested in C#
